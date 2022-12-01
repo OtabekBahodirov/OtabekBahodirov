@@ -2,5 +2,6 @@
 
 This is my first profile and I want to achieve great things in the future
 
-<a href="https://www.facebook.com/otabek.bahodirov.94/"> title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/facebook-logo-3.png" width="25px"            alt="Facebook Logo HD PNG Pic" /></a>
+<a href="https://www.facebook.com/otabek.bahodirov.94/">
+  <img src="https://www.freeiconspng.com/uploads/facebook-logo-3.png" width="25px"            alt="Facebook Logo HD PNG Pic" /></a>
 </a>
