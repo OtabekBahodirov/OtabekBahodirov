@@ -17,3 +17,11 @@ This is my first profile and I want to achieve great things in the future
 <code><img src="https://p7.hiclipart.com/preview/1008/538/490/web-development-html-cascading-style-sheets-css3-world-wide-web.jpg" width="30px" alt="Css img Hd" /></code>              
 <code><img src="https://tse1.mm.bing.net/th?id=OIP.fOhke-a_rxa8SsNcvt8yvwHaIR&pid=Api" width="30px" alt="PYTHON img Hd" /></code>                     
 <code><img src="https://avatars.mds.yandex.net/i?id=92e1ef219fc2b426a2e1fe67554c635c-5351557-images-thumbs&n=13" width="30px" alt="C img Hd" /></code>                                                                                                                        
+
+                                                                                                                                            
+                                                                                                                                            
+<br /> 
+
+-📍 &nbsp;  Current location: Tashkent, Uzbekistan
+-📩 &nbsp; Ask me about anything, I am happy to help
+-📩 &nbsp; How to reach me: [@fanytrich] (https://www.instagram.com/fanytrich/)                                                                                                                                           
