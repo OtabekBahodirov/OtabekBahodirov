@@ -22,6 +22,6 @@ This is my first profile and I want to achieve great things in the future
                                                                                                                                             
 <br /> 
 
--📍 &nbsp;  Current location: Tashkent, Uzbekistan
--📩 &nbsp; Ask me about anything, I am happy to help
+-📍 &nbsp;  Current location: Tashkent, Uzbekistan <br />
+-📩 &nbsp; Ask me about anything, I am happy to help<br />
 -📩 &nbsp; How to reach me: [@fanytrich] (https://www.instagram.com/fanytrich/)                                                                                                                                           
