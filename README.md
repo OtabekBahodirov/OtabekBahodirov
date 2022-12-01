@@ -10,6 +10,6 @@ This is my first profile and I want to achieve great things in the future
 </a>
 
                                                                                                                                                   
-### Language and tools I work with:                                                                                                               
+### Language and tools I work with:                                                                                                              
 
-<code> <img src="https://radioprog.ru/uploads/media/articles/0001/01/2cc857f7f034ad92dae834fba16b89999b455fb0.png" height="25px></code>                                                                                                                                                  
+<code><img src="https://assets.stickpng.com/thumbs/5847f5bdcef1014c0b5e489c.png" height="25px></code>                                                                                                                                                  
