@@ -7,5 +7,5 @@ This is my first profile and I want to achieve great things in the future
 </a>
 
 <a href="https://www.instagram.com/fanytrich/">
-  <img src="https://www.freeiconspng.com/uploads/new-instagram-icon-2.jpg" width="350" alt="new instagram icon" /></a>
+  <img src="https://www.freeiconspng.com/uploads/new-instagram-icon-2.jpg" width="25px" alt="new instagram icon" /></a>
 </a>
