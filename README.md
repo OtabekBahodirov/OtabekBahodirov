@@ -6,5 +6,5 @@ This is my first profile and I want to achieve great things in the future
   <img src="https://www.freeiconspng.com/uploads/facebook-logo-3.png" width="25px"            alt="Facebook Logo HD PNG Pic" /></a>
 </a>
 <a href="https://www.instagram.com/fanytrich/">
-  <img src="https://www.freeiconspng.com/uploads/new-instagram-icon-2.jpg" width="45px" "height="10px" margin-top="15px" alt="new instagram icon" /></a>
+  <img src="https://www.freeiconspng.com/uploads/new-instagram-icon-2.jpg" width="45px" "height="100px" margin-top="15px" alt="new instagram icon" /></a>
 </a>
