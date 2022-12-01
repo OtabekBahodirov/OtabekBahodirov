@@ -12,4 +12,4 @@ This is my first profile and I want to achieve great things in the future
                                                                                                                                                   
 ### Language and tools I work with:                                                                                                              
 
-<code><img src="https://assets.stickpng.com/thumbs/5847f5bdcef1014c0b5e489c.png" height="25px></code>                                                                                                                                                  
+<code><img src="https://www.freeiconspng.com/uploads/html5-icon-1.png" width="50px" alt="Html5 Icon Hd" /></code>                                                                                                                                                  
